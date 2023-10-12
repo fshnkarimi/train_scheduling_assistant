@@ -1,6 +1,6 @@
-**Project Title:** Train Scheduling with Large Language Models
+## Train Scheduling with Large Language Models
 
-**Description:** This project utilizes a fine-tuned Large Language Model (LLM) to generate train scheduling information from unstructured textual data, providing an interactive UI via Streamlit.
+This project utilizes a fine-tuned Large Language Model (LLM) to generate train scheduling information from unstructured textual data, providing an interactive UI via Streamlit.
 
 ## Demo
 Below is a short demo of the project in action:
