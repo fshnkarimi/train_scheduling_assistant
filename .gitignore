@@ -6,3 +6,4 @@ __pycache__/
 *.log
 *.sql
 venv/
+models/llm/fine_tuned_llm_model.pth
