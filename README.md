@@ -2,6 +2,11 @@
 
 **Description:** This project utilizes a fine-tuned Large Language Model (LLM) to generate train scheduling information from unstructured textual data, providing an interactive UI via Streamlit.
 
+## Demo
+Below is a short demo of the project in action:
+
+![Demo](./demo.gif)
+
 ### Table of Contents
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
