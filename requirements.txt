@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+spacy
+nltk
+tensorflow
+numpy
+pandas

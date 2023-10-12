@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: train-scheduling-assistant
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: train-scheduling-assistant
+  template:
+    metadata:
+      labels:
+        app: train-scheduling-assistant
+    spec:
+      containers:
+      - name: train-scheduling-assistant
+        image: fshnkarimi/train-scheduling-assistant:latest
